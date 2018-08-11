@@ -1,11 +1,18 @@
 import React, { Component } from 'react';
 
 // Import Css
-import './App.css';
+import './App.scss';
 
 class App extends Component {
     render() {
-        return <h1>Banyak bacot</h1>;
+        return (
+            <div className="contain">
+                <div className="main">
+                    <h1>Banyak bacot</h1>
+                </div>
+                <p><code>Change ./src/App.js</code></p>
+            </div>
+        );
     }
 }
 
