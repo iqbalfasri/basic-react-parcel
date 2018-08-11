@@ -9,12 +9,18 @@
         "build": "parcel build ./src/index.html --out-dir build",
         "build-no-cache": "parcel build ./src/index.html --out-dir build --no-cache"
     },
-    "keywords": ["ReactJS", "ParcelJS", "react parcel"],
+    "keywords": [
+        "ReactJS",
+        "ParcelJS",
+        "react parcel"
+    ],
     "author": "Muhammad Iqbal Fasri <iqbalx64@gmail.com>",
     "license": "ISC",
     "dependencies": {
+        "node-sass": "^4.9.3",
         "react": "^16.4.2",
         "react-dom": "^16.4.2",
+        "react-hot-loader": "^4.3.4",
         "styled-components": "^3.4.2"
     },
     "devDependencies": {
