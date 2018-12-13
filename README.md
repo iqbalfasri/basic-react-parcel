@@ -1,4 +1,4 @@
-# basic-react-parcel
+# Basic Starter React App using ParcelJS 📦
 React App using Parcel zero configuration.
 Simple and easy to use.
 
