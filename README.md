@@ -1,4 +1,4 @@
-# Basic Starter React App using ParcelJS 📦
+<h1 align="center">Basic Starter React App using ParcelJS</h1>
 React App using Parcel zero configuration.
 Simple and easy to use.
 
